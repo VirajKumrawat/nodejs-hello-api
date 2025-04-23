@@ -1,13 +1,14 @@
 {
 	"name": "nodejs-graphql-hello-world-server",
 	"private": true,
+	"scripts": {
+                "test": "echo \"No tests to run.\" && exit 0"
+        }
 	"dependencies": {		
 		"body-parser": "^1.18.3",
 		"cors": "^2.8.4",
 		"express": "^4.16.3"		 
 	}
-	"scripts": {
-                "test": "echo \"No tests to run.\" && exit 0"
-        }
+	
 
 }
